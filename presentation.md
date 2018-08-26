@@ -297,6 +297,6 @@ enum BusinessTime: State {
 
 # Thanks for coming
 
-GitHub repo of talk and playground is available at https://github.com/mattdelves/state_machines_talk
+GitHub repo of talk and playground is available at https://github.com/mattdelves/state\_machines\_talk
 
 ---
